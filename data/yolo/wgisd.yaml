@@ -1,0 +1,6 @@
+path: ./wgisd-yolo   # carpeta base
+train: images/train
+val: images/val
+nc: 1
+names: ["uva_bbox"]
+task: detect

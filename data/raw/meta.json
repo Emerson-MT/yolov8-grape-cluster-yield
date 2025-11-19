@@ -1,0 +1,68 @@
+{
+    "classes": [
+        {
+            "title": "uva",
+            "shape": "bitmap",
+            "color": "#BD10E0",
+            "geometry_config": {},
+            "id": 28266,
+            "hotkey": ""
+        },
+        {
+            "title": "uva_bbox",
+            "shape": "rectangle",
+            "color": "#D0021B",
+            "geometry_config": {},
+            "id": 28267,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "Cabernet Franc",
+            "value_type": "none",
+            "color": "#500F8A",
+            "id": 4899,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "Cabernet Sauvignon",
+            "value_type": "none",
+            "color": "#8A380F",
+            "id": 4900,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "Chardonnay",
+            "value_type": "none",
+            "color": "#0F8A57",
+            "id": 4898,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "Sauvignon Blanc",
+            "value_type": "none",
+            "color": "#890F8A",
+            "id": 4901,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "Syrah",
+            "value_type": "none",
+            "color": "#8A760F",
+            "id": 4902,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "images"
+}

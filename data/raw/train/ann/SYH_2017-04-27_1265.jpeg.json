@@ -1,0 +1,260 @@
+{
+    "description": "",
+    "tags": [
+        {
+            "id": 590130,
+            "tagId": 4902,
+            "name": "Syrah",
+            "value": null,
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-05T15:33:28.406Z",
+            "updatedAt": "2023-08-05T15:33:28.406Z"
+        }
+    ],
+    "size": {
+        "height": 1365,
+        "width": 2048
+    },
+    "objects": [
+        {
+            "id": 15729595,
+            "classId": 28267,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-05T15:33:28.416Z",
+            "updatedAt": "2023-08-05T15:33:28.416Z",
+            "tags": [],
+            "classTitle": "uva_bbox",
+            "points": {
+                "exterior": [
+                    [
+                        992,
+                        717
+                    ],
+                    [
+                        1213,
+                        1257
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 15729594,
+            "classId": 28267,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-05T15:33:28.415Z",
+            "updatedAt": "2023-08-05T15:33:28.415Z",
+            "tags": [],
+            "classTitle": "uva_bbox",
+            "points": {
+                "exterior": [
+                    [
+                        785,
+                        611
+                    ],
+                    [
+                        990,
+                        1082
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 15729593,
+            "classId": 28267,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-05T15:33:28.414Z",
+            "updatedAt": "2023-08-05T15:33:28.414Z",
+            "tags": [],
+            "classTitle": "uva_bbox",
+            "points": {
+                "exterior": [
+                    [
+                        1393,
+                        184
+                    ],
+                    [
+                        1547,
+                        657
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 15729592,
+            "classId": 28267,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-05T15:33:28.414Z",
+            "updatedAt": "2023-08-05T15:33:28.414Z",
+            "tags": [],
+            "classTitle": "uva_bbox",
+            "points": {
+                "exterior": [
+                    [
+                        1641,
+                        658
+                    ],
+                    [
+                        1814,
+                        1061
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 15729591,
+            "classId": 28267,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-05T15:33:28.412Z",
+            "updatedAt": "2023-08-05T15:33:28.412Z",
+            "tags": [],
+            "classTitle": "uva_bbox",
+            "points": {
+                "exterior": [
+                    [
+                        1619,
+                        221
+                    ],
+                    [
+                        1820,
+                        665
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 15729590,
+            "classId": 28267,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-05T15:33:28.411Z",
+            "updatedAt": "2023-08-05T15:33:28.411Z",
+            "tags": [],
+            "classTitle": "uva_bbox",
+            "points": {
+                "exterior": [
+                    [
+                        1782,
+                        75
+                    ],
+                    [
+                        2047,
+                        254
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 15729589,
+            "classId": 28267,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-05T15:33:28.410Z",
+            "updatedAt": "2023-08-05T15:33:28.410Z",
+            "tags": [],
+            "classTitle": "uva_bbox",
+            "points": {
+                "exterior": [
+                    [
+                        1801,
+                        481
+                    ],
+                    [
+                        1948,
+                        892
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 15729588,
+            "classId": 28267,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-05T15:33:28.410Z",
+            "updatedAt": "2023-08-05T15:33:28.410Z",
+            "tags": [],
+            "classTitle": "uva_bbox",
+            "points": {
+                "exterior": [
+                    [
+                        186,
+                        243
+                    ],
+                    [
+                        515,
+                        677
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 15729587,
+            "classId": 28267,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-05T15:33:28.409Z",
+            "updatedAt": "2023-08-05T15:33:28.409Z",
+            "tags": [],
+            "classTitle": "uva_bbox",
+            "points": {
+                "exterior": [
+                    [
+                        286,
+                        450
+                    ],
+                    [
+                        505,
+                        791
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 15729586,
+            "classId": 28267,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "gr@datasetninja.com",
+            "createdAt": "2023-08-05T15:33:28.408Z",
+            "updatedAt": "2023-08-05T15:33:28.408Z",
+            "tags": [],
+            "classTitle": "uva_bbox",
+            "points": {
+                "exterior": [
+                    [
+                        374,
+                        303
+                    ],
+                    [
+                        662,
+                        540
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
